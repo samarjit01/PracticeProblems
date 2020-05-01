@@ -19,3 +19,5 @@ DSA problems for practice .
 |2    |  Longest Substring Without Repeating Characters            |  [C++](./CPP/longestSubstringWithoutRepeatingCharacters.cpp)     |            DP    |        :green_heart:      |
 |3    |  Longest Palindromic Substring             |  [C++](./CPP/longestPalindromicSubstring.cpp)     |                |        :yellow_heart:      |
 |4    |  Zig Zag Conversion             |  [C++](./CPP/zigZagConversion.cpp)     |                |        :purple_heart:      |
+|5    |  String to Integer            |  [C++](./CPP/stringToInteger.cpp)     |                |        :purple_heart:      |
+
