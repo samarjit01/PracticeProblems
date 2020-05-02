@@ -19,6 +19,6 @@ DSA problems for practice .
 |3    |  Longest Palindromic Substring             |  [C++](./CPP/longestPalindromicSubstring.cpp)     |                |        :yellow_heart:      |
 |4    |  Zig Zag Conversion             |  [C++](./CPP/zigZagConversion.cpp)     |                |        :purple_heart:      |
 |5    |  String to Integer            |  [C++](./CPP/stringToInteger.cpp)     |                |        :purple_heart:      |
-|6    |  Container With Most Water           |  [C++](./CPP/containerWithMostWater.cpp)     |                |        :green_heart:      |
-
+|6    |  Container With Most Water           |  [C++](./CPP/containerWithMostWater.cpp)     |     Greedy           |        :green_heart:      |
+|7    |  Integer To Roman        |  [C++](./CPP/integerToRoman.cpp)     |                |        :yellow_heart:      |
 
